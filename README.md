@@ -1,10 +1,12 @@
 # Trafic-analyze
 C++ console trafic analyze app
+
 Vaihe 1. Aliohjelmarakenne
 
 Tee valikkopohjaisen ohjelman rakenne eli pääohjelma ja valikko-aliohjelma
 Tee valikko-aliohjelma valmiiksi käyttäen hyväksi ohjelman esimerkkiajoa ja palauta valinta aliohjelmasta kokonaislukuna
 Tee pääohjelmaan toistorakenne ja valintarakenne. Laita valintarakenteeseen aliohjelmakutsut ja tulosta jokaisessa aliohjelmassa lause, joka kertoo missä aliohjelmassa ollaan. Nämä aliohjelmat eivät palauta vielä mitään
+
 Vaihe 2. Tiedonvälitys, linkitetty lista ja tiedostonkäsittely
 
 Toteuta valinta 1 eli tiedostonluku
